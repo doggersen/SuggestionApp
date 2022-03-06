@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionAppUI", "SuggestionAppUI\SuggestionAppUI.csproj", "{81A4079C-D605-41D9-BEDC-8B8F863CFD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionAppLibrary", "SuggestionAppLibrary\SuggestionAppLibrary.csproj", "{441635C7-7511-4D39-9384-53B527F3C510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A4079C-D605-41D9-BEDC-8B8F863CFD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A4079C-D605-41D9-BEDC-8B8F863CFD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A4079C-D605-41D9-BEDC-8B8F863CFD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A4079C-D605-41D9-BEDC-8B8F863CFD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441635C7-7511-4D39-9384-53B527F3C510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441635C7-7511-4D39-9384-53B527F3C510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441635C7-7511-4D39-9384-53B527F3C510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441635C7-7511-4D39-9384-53B527F3C510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A978E6C-E42A-4B7E-9B99-611FC21DF4A3}
+	EndGlobalSection
+EndGlobal
