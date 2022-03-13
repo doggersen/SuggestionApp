@@ -11,7 +11,7 @@
    public CategoryModel Category { get; set; }
    public BasicUserModel Author { get; set; }
    public HashSet<string> UserVotes { get; set; } = new();
-   public StatusModel SuggestionSTatus { get; set; }
+   public StatusModel SuggestionStatus { get; set; }
    public string OwnerNotes { get; set; }
 
    public bool ApprovedForRelease { get; set; } = false;
